@@ -29,9 +29,9 @@ Installation du projet pour utilisation:
   
 Logins créer pour la simulation
    -Login de admin : admin 
-        Password :Test@12345
+        Password : Test@12345
    -Login Details for Patient: test@gmail.com 
-        Password :Test@123
+        Password : Test@123
    -Login Details for Doctor: test@demo.com 
         Password : Test@123
         
